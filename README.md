@@ -9,6 +9,10 @@ To control an electrical load (bulb, fan, socket, etc.) from a smartphone.
 To provide real-time monitoring and control via Blynk IoT Cloud.
 To gain practical experience in ESP32 programming, IoT communication, and mobile app integration.
 
+Watch the demo video here : https://youtube.com/shorts/ItUyiz7XAUg?si=SCLR6mfpXko9M7ea
+https://youtu.be/38vRIM3Bs3c?si=7OYf-OQRH5kZgjpo.
+
+
 3. Components Required
 Component	Quantity	Description
 ESP32 Devkit V1	1	Wi-Fi-enabled microcontroller
